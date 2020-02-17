@@ -10,6 +10,9 @@ namespace Git_Class2
     {
         static void Main(string[] args)
         {
+
+            Console.Write("jeeeeeeeeeeee");
+            Console.ReadKey();
         }
     }
 }
